@@ -6,10 +6,9 @@
 - **[12. Mai 2020: Besprechung der Hausaufgabe](/03/)**
 - **[19. Mai 2020: Pythagoreische Stimmung](/04/)**
 - **[26. Mai 2020: Envelopes | Windowing](/05/)**
+- **[02. Juni 2020: Dynamik | Komplexe Zahlen](/06/)**
 
 # Themenausblick
 
-- pressure to dB
-- complex numbers
 - euler
 - fourier
