@@ -7,6 +7,7 @@
 - **[19. Mai 2020: Pythagoreische Stimmung](/04/)**
 - **[26. Mai 2020: Envelopes | Windowing](/05/)**
 - **[02. Juni 2020: Dynamik | Komplexe Zahlen](/06/)**
+- **[09. Juni 2020: Hausaufgabenbesprechung | Komplexe Zahlen](/07/)**
 
 # Themenausblick
 
