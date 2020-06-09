@@ -10,13 +10,13 @@ Heute haben wir uns zusammen auf [Geogebra](https://www.geogebra.org/?lang=de) a
 
 Mittig ist das Koordinatensystem – links Elemente, die im Koordinatensystem dargestellt werden können.
 
-Anfangs sind die Zahlen $\mathrm{a1}$ und $\mathrm{b1}$, sowie zwei Slider (oben links im Koordinatensystem) und die Zahl $\mathrm{sum1}$ zu sehen. Durch die Slider könnt ihr $\mathrm{a1}$ und $\mathrm{b1}$ auf der X-Achse verschieben. Achtet dabei darauf, was mit der der Summe $\mathrm{sum1}$ passiert.
+Anfangs sind die Zahlen ![a1](/latex_data/01_a1.gif) und ![b1](/latex_data/02_b1.gif), sowie zwei Slider (oben links im Koordinatensystem) und die Zahl ![sum1](/latex_data/03_sum1.gif) zu sehen. Durch die Slider könnt ihr ![a1](/latex_data/01_a1.gif) und ![b1](/latex_data/02_b1.gif) auf der X-Achse verschieben. Achtet dabei darauf, was mit der der Summe ![sum1](/latex_data/03_sum1.gif) passiert.
 
-Durch Klicken in der linken Element-Spalte auf die kleinen Kreise, die sich jeweils links neben den einzelnen Elementen befinden, könnt ihr die Darstellung der jeweiligen Elemente aktivieren oder deaktivieren. Aktiviert nun $\mathrm{mul1}$ und deaktiviert $\mathrm{sum1}$. Achtet darauf, wie  sich $\mathrm{mul1}$, also die Multiplikation beider Werte beim Verschieben der Werte $\mathrm{a1}$ und $\mathrm{b1}$ verhält.
+Durch Klicken in der linken Element-Spalte auf die kleinen Kreise, die sich jeweils links neben den einzelnen Elementen befinden, könnt ihr die Darstellung der jeweiligen Elemente aktivieren oder deaktivieren. Aktiviert nun ![mul1](/latex_data/04_mul1.gif) und deaktiviert ![sum1](/latex_data/03_sum1.gif). Achtet darauf, wie  sich ![mul1](/latex_data/04_mul1.gif), also die Multiplikation beider Werte beim Verschieben der Werte ![a1](/latex_data/01_a1.gif) und ![b1](/latex_data/02_b1.gif) verhält.
 
-Deaktiviert nun alle Elemente (die pinken) und aktiviert stattdessen $\mathrm{a2}$ und $\mathrm{b2}$ sowie $\mathrm{sum2}$ (grün). Zunächst sind alle drei Zahlen auch auf der X-Achse platziert. Ihr könnt die Zahlen $\mathrm{a2}$ und $\mathrm{b2}$ mit der Maus auf der Fläche herumziehen. Was passiert nun mit $\mathrm{sum2}$, wenn ihr die Zahlen auf der Fläche herumschiebt?
+Deaktiviert nun alle Elemente (die pinken) und aktiviert stattdessen ![a2](/latex_data/05_a2.gif) und ![b2](/latex_data/06_b2.gif) sowie ![sum2](/latex_data/07_sum2.gif) (grün). Zunächst sind alle drei Zahlen auch auf der X-Achse platziert. Ihr könnt die Zahlen ![a2](/latex_data/05_a2.gif) und ![b2](/latex_data/06_b2.gif) mit der Maus auf der Fläche herumziehen. Was passiert nun mit ![sum2](/latex_data/07_sum2.gif), wenn ihr die Zahlen auf der Fläche herumschiebt?
 
-Deaktiviert wieder $\mathrm{sum2}$ und aktiviert stattdesssen $\mathrm{mul2}$. Könnt ihr hier auch ein Pattern feststellen (Tipp: bringt $\mathrm{a2}$ und $\mathrm{b2}$ zunächst wieder auf die X-Achse)?
+Deaktiviert wieder ![sum2](/latex_data/07_sum2.gif) und aktiviert stattdesssen ![mul2](/latex_data/08_mul2.gif). Könnt ihr hier auch ein Pattern feststellen (Tipp: bringt ![a2](/latex_data/05_a2.gif) und ![b2](/latex_data/06_b2.gif) zunächst wieder auf die X-Achse)?
 
 </div>
 
