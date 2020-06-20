@@ -8,8 +8,8 @@
 - **[26. Mai 2020: Envelopes | Windowing](/05/)**
 - **[02. Juni 2020: Dynamik | Komplexe Zahlen](/06/)**
 - **[09. Juni 2020: Hausaufgabenbesprechung | Komplexe Zahlen](/07/)**
+- **[16. Juni 2020: Operationen mit komplexen Zahlen | Euler](/08/)**
 
 # Themenausblick
 
-- euler
 - fourier
