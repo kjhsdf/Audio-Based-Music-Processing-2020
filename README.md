@@ -10,6 +10,7 @@
 - **[09. Juni 2020: Hausaufgabenbesprechung | Komplexe Zahlen](/07/)**
 - **[16. Juni 2020: Operationen mit komplexen Zahlen | Euler](/08/)**
 - **[23. Juni 2020: Komplexe Zahlen in Python | E-Funktion | Ähnlichkeitsmaß](/09/)**
+- **[30. Juni 2020: "Winding Machine"](/10/)**
 
 # Themenausblick
 
