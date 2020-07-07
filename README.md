@@ -11,7 +11,8 @@
 - **[16. Juni 2020: Operationen mit komplexen Zahlen | Euler](/08/)**
 - **[23. Juni 2020: Komplexe Zahlen in Python | E-Funktion | Ähnlichkeitsmaß](/09/)**
 - **[30. Juni 2020: "Winding Machine"](/10/)**
+- **[07. Juli 2020: "DFT Eigenschaften & Implementierung"](/11/)
 
 # Themenausblick
 
-- fourier
+- stft

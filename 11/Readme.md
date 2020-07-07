@@ -1,0 +1,3 @@
+- [Hausaufgabenbesprechung](Hausaufgabe_DFT_Anwendung_loesung.ipynb)
+- [DFT Eigenschaften und Implementierung](DFT_Eigenscha.ipynb)
+- [Hausaufgabenbe: STFT](Hausaufgabenbe_STFT.ipynb)
