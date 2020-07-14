@@ -12,7 +12,4 @@
 - **[23. Juni 2020: Komplexe Zahlen in Python | E-Funktion | Ähnlichkeitsmaß](/09/)**
 - **[30. Juni 2020: "Winding Machine"](/10/)**
 - **[07. Juli 2020: "DFT Eigenschaften & Implementierung"](/11/)**
-
-# Themenausblick
-
-- stft
+- **[14. Juli 2020: STFT | Log-Frequency-Spectrogram | Chromagram](/12/)**
